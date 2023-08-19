@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Peeyush Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=790b7611n92e3gzjmm0t8mvvz9fds6v7kqnbzqx52cpc4mfh&ep=v1_gifs_search&rid=200w.gif&ct=g"
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peeyushsingh4&label=Profile%20views&color=0e75b6&style=flat" alt="peeyushsingh4" /> </p>
 
 <p align="left"> <a href="https://twitter.com/peeyushsingh_4" target="blank"><img src="https://img.shields.io/twitter/follow/peeyushsingh_4?logo=twitter&style=for-the-badge" alt="peeyushsingh_4" /></a> </p>
