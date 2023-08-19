@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/peeyushsingh_4" target="blank"><img src="https://img.shields.io/twitter/follow/peeyushsingh_4?logo=twitter&style=for-the-badge" alt="peeyushsingh_4" /></a> </p>
 
-- 📫 How to reach me **peeyushsingh2005@gmail.com**
+- 📫 Mail **peeyushsingh2005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
