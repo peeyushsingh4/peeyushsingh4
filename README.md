@@ -7,7 +7,7 @@
 
 - 📫 Mail : **peeyushsingh2005@gmail.com**
 
-- ⚡ Fun fact **The term "bug" in programming came from a real bug that was found in a computer.**
+- ⚡ Fun fact : **The term "bug" in programming came from a real bug that was found in a computer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
