@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/peeyushsingh_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="peeyushsingh_4" height="30" width="40" /></a>
-<a href="https://instagram.com/jupiter48579" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jupiter48579" height="30" width="40" /></a>
+<a href="https://instagram.com/_peeyushsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_peeyushsingh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/peeyushsingh4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="peeyushsingh4" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/m8uhSwz4Ck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/m8uhSwz4Ck" height="30" width="40" /></a>
 </p>
